@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Headings</title>
+    </head>
+    <body>
+        <h1>The force be with you</h1>
+        <h2>The force be with you</h2>
+        <h3>The force be with you</h3>
+        <h4>The force be with you</h4>
+        <h5>The force be with you</h5>
+        <h6>The force be with you</h6>
+    </body>
+</html>
